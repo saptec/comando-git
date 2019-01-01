@@ -9,6 +9,7 @@ git config --list
 #envio de projeto para o GitHub
 git clone https://github.com/saptec/ci-inicial.git
 git init     // comando para iniciar o Git no projeto
+
 git status   // comando para ver os arquivos que serão adicionados ao projeto 
 git add *    // comando para adicionar todos os arquivos ao projeto
 git commit -m “mensagem para postar no GitHub”   // comando para fazer o commit
